@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<systemvariables version="4">
+  <namespace name="" comment="" interface="">
+    <namespace name="Calculator" comment="" interface="">
+      <namespace name="Display" comment="" interface="">
+        <variable anlyzLocal="2" readOnly="false" valueSequence="false" unit="" name="Button_1" comment="" bitcount="32" isSigned="false" encoding="65001" type="int" />
+        <variable anlyzLocal="2" readOnly="false" valueSequence="false" unit="" name="Button_2" comment="" bitcount="32" isSigned="false" encoding="65001" type="int" />
+        <variable anlyzLocal="2" readOnly="false" valueSequence="false" unit="" name="Button_3" comment="" bitcount="32" isSigned="false" encoding="65001" type="int" />
+        <variable anlyzLocal="2" readOnly="false" valueSequence="false" unit="" name="Button_4" comment="" bitcount="32" isSigned="false" encoding="65001" type="int" />
+        <variable anlyzLocal="2" readOnly="false" valueSequence="false" unit="" name="Button_5" comment="" bitcount="32" isSigned="false" encoding="65001" type="int" />
+        <variable anlyzLocal="2" readOnly="false" valueSequence="false" unit="" name="Button_6" comment="" bitcount="32" isSigned="false" encoding="65001" type="int" />
+        <variable anlyzLocal="2" readOnly="false" valueSequence="false" unit="" name="Button_7" comment="" bitcount="32" isSigned="false" encoding="65001" type="int" />
+        <variable anlyzLocal="2" readOnly="false" valueSequence="false" unit="" name="Button_8" comment="" bitcount="32" isSigned="false" encoding="65001" type="int" />
+        <variable anlyzLocal="2" readOnly="false" valueSequence="false" unit="" name="Button_9" comment="" bitcount="32" isSigned="false" encoding="65001" type="int" />
+        <variable anlyzLocal="2" readOnly="false" valueSequence="false" unit="" name="Button_Addition" comment="" bitcount="32" isSigned="false" encoding="65001" type="int" />
+        <variable anlyzLocal="2" readOnly="false" valueSequence="false" unit="" name="button_Equal" comment="" bitcount="32" isSigned="false" encoding="65001" type="int" />
+        <variable anlyzLocal="2" readOnly="false" valueSequence="false" unit="" name="clear" comment="" bitcount="32" isSigned="false" encoding="65001" type="int" />
+        <variable anlyzLocal="2" readOnly="false" valueSequence="false" unit="" name="div" comment="" bitcount="32" isSigned="false" encoding="65001" type="int" />
+        <variable anlyzLocal="2" readOnly="false" valueSequence="false" unit="" name="mod" comment="" bitcount="32" isSigned="false" encoding="65001" type="int" />
+        <variable anlyzLocal="2" readOnly="false" valueSequence="false" unit="" name="mul" comment="" bitcount="32" isSigned="false" encoding="65001" type="int" />
+        <variable anlyzLocal="2" readOnly="false" valueSequence="false" unit="" name="outputBox" comment="" bitcount="0" isSigned="true" encoding="65001" type="string" startValue=" " />
+        <variable anlyzLocal="2" readOnly="false" valueSequence="false" unit="" name="sub" comment="" bitcount="32" isSigned="false" encoding="65001" type="int" />
+      </namespace>
+      <variable anlyzLocal="2" readOnly="false" valueSequence="false" unit="" name="Op1" comment="" bitcount="64" isSigned="true" encoding="65001" type="float" startValue="0" />
+      <variable anlyzLocal="2" readOnly="false" valueSequence="false" unit="" name="Op2" comment="" bitcount="64" isSigned="true" encoding="65001" type="float" startValue="0" />
+      <variable anlyzLocal="2" readOnly="false" valueSequence="false" unit="" name="Operator" comment="" bitcount="32" isSigned="false" encoding="65001" type="int" />
+      <variable anlyzLocal="2" readOnly="false" valueSequence="false" unit="" name="Result" comment="" bitcount="64" isSigned="true" encoding="65001" type="float" />
+    </namespace>
+  </namespace>
+</systemvariables>
